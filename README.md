@@ -18,46 +18,29 @@ Search terms used -
 # Project Plan Check List
 
 **1 - Explain the overall purpose of the package**
-- [] Generating random numbers
-- [] 
-- [] 
-- [] 
-- [] 
+- [x] Complete
 
 **2 - Explain the use of the "Simple random data" and "Permutations" functions**
-- [] Explain the use of the "Simple random data" function
-- [] Explain the use of the "Permutations" function
-- []
-- []
-- []
-
+- [x] Explain the use of the "Simple random data" function
+- [x] Explain the use of the "Permutations" function
 
 **3 - Explain the use and purpose of at least five "Distributions" functions**
-- [] 
-- [] 
-- [] 
-- [] 
-- [] 
-- [] 
+- [x] np.random.uniform
+- [] np.random.normal
+- [x] np.random.binomial
+- [] np.random.geometric
+- [] np.random.standard_gamma
 
 **4 - Explain the use of seeds in generating psedorandom numbers**
-- []
-- []
-- []
-- []
+- [x] Complete
 
 **5 - Update Project Plan as research progresses and additional information becomes apparent**
-- [] Consider any new information learned as part of the project plan
+- [x] Consider any new information learned as part of the project plan
 
 **6 - How to run the Python code and what it does**
-- [] 
-- [] 
-- [] 
+- [] Complete
 
-**7 - Use of other resources**
-- [] 
-
-**8 - References**
+**7 - References**
 - [] Double check that use of data is licensed and referenced
 
 **9 - Review**
