@@ -7,13 +7,6 @@
 
 ### numpy.random Package in Python
 
-### References
-
-Search terms used - 
-
-1 - https://docs.scipy.org/doc/numpy-1.15.1/reference/routines.random.html
-
-
 
 # Project Plan Check List
 
