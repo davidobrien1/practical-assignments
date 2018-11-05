@@ -19,10 +19,10 @@
 
 **3 - Explain the use and purpose of at least five "Distributions" functions**
 - [x] np.random.uniform
-- [] np.random.normal
+- [x] np.random.normal
 - [x] np.random.binomial
-- [] np.random.geometric
-- [] np.random.standard_gamma
+- [x] np.random.triangular
+- [] np.random.exponential
 
 **4 - Explain the use of seeds in generating psedorandom numbers**
 - [x] Complete
