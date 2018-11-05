@@ -1,11 +1,19 @@
 # Programming for Data Analysis
 
-## Semester 2 Assignement 2018
+## Semester 2 Assignment 2018
 
 ### Student:    David O'Brien
 ### Student ID: G00364766
 
 ### numpy.random Package in Python
+
+
+# Notes
+
+This git repository contains files for the practical assignment in the module Programming for Data Analysis.
+
+The Jupyter Notebook for this practical assignement is named "numpy-random.ipynb".  If you are opening the file in Jupyter, click on the Kernal menu and select "Restart and Run all".
+
 
 
 # Project Plan Check List
@@ -31,10 +39,10 @@
 - [x] Consider any new information learned as part of the project plan
 
 **6 - How to run the Python code and what it does**
-- [] Complete
+- [x] Complete
 
 **7 - References**
-- [] Double check that use of data is licensed and referenced
+- [x] Double check that use of data is licensed and referenced
 
 **9 - Review**
 - [] Review all assignment items for any errors and improvements
