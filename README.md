@@ -22,7 +22,7 @@
 - [x] np.random.normal
 - [x] np.random.binomial
 - [x] np.random.triangular
-- [] np.random.exponential
+- [x] np.random.exponential
 
 **4 - Explain the use of seeds in generating psedorandom numbers**
 - [x] Complete
