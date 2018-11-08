@@ -12,7 +12,7 @@
 
 This git repository contains files for the practical assignment in the module Programming for Data Analysis.
 
-The Jupyter Notebook for this practical assignement is named "numpy-random.ipynb".  If you are opening the file in Jupyter, click on the Kernal menu and select "Restart and Run all".
+The Jupyter Notebook for this practical assignement is named "numpy-random.ipynb".  If you are opening the file in Jupyter, click on the Kernel menu and select "Restart and Run all".
 
 
 
@@ -45,4 +45,4 @@ The Jupyter Notebook for this practical assignement is named "numpy-random.ipynb
 - [x] Double check that use of data is licensed and referenced
 
 **9 - Review**
-- [] Review all assignment items for any errors and improvements
+- [x] Review all assignment items for any errors and improvements
